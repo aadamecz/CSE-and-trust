@@ -1,6 +1,6 @@
 # CSE-and-trust
 
-This folder contains the Online Appendix and a Stata replication package for Adolescent Core Self-Evaluation and Adult Interpersonal Trust: Evidence from the 1970 British Cohort Study by Anna Adamecz and Hubert János Kiss
+This folder contains the Online Appendix and a Stata replication package for "Adolescent Core Self-Evaluation and Adult Interpersonal Trust: Evidence from the 1970 British Cohort Study" by Anna Adamecz and Hubert János Kiss
 
 First working paper: TBA 
 
